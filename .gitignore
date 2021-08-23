@@ -74,5 +74,9 @@ yarn.lock
 .gatsby-config.js
 package.json
 ./vscode
+./.LICENSE.md
+./README.md
 
-
+./.examples.gif
+./.examples.png
+.examples
